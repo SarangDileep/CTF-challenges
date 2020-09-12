@@ -1,0 +1,2 @@
+b'FwordCTF{Mehdi_knows_alot_about_Schmidt-samoa_but_is_it_better_than_RSA?}'
+
