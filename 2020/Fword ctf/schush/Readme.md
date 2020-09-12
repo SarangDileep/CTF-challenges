@@ -2,9 +2,9 @@
 
 Rewrite the func as follows:
 
- x**12 + (x & (2**(bits/2)-1))
+ x^12 + (x & (2^(bits/2)-1))
  ┆                                                                                                                                                                  
- x % 2^n == x & (2^n - 1) implies x**12 + x % 2^bits                                                                                                            
+ x % 2^n == x & (2^n - 1) implies x^12 + x % 2^bits                                                                                                            
                                                                                                                                                                    
  ie, p=(x1^12)^1/2+x1%2^bits
  
